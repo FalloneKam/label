@@ -1,0 +1,7 @@
+
+<?php
+/*  Page d'acceuil accessible après connexion */
+
+// Cette page aura des fonctionalités variables en fonction du niveau d'accès de l'utilisateur
+
+?>
