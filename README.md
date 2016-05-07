@@ -6,10 +6,10 @@ Les utilisateurs finaux seront donc (par ordre de droits d'accès) :
 - Les établissements LABEL
 - Les communautés urbaines des villes camerounaises
 - Les régies publicitaires
-- Les annonceurs
+- Les annonceurs.
 
 L'application est développée en php par l'entreprise **[Zukulu Sarl](http://www.zukulu.net "Solutions TIC pour l'éducation")** et offre les fonctionnalités suivantes :
 - Télédéclarations 
-- Téléchargement des déclarations précédentes
-- Présentation des statistiques liées aux supports d'affichage publicitaires
-- Suivi des campagnes d'affichage en temps réel
+- Téléchargement des déclarations précédentes en PDF
+- Présentation des statistiques liées aux supports d'affichage publicitaire
+- Suivi des campagnes d'affichage en temps réel.
