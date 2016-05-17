@@ -5,4 +5,5 @@ qui sera une sorte de landing-page unique avec toutes les infos nécessaires des
 Les menus renverront vers des ancres de la même page.
 */
 // Test GIT
+// Test 2
 ?>
